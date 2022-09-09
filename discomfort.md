@@ -2,7 +2,11 @@
 title: Embracing Discomfort
 ---
 
-Audience: software engineers and information/communications technologists
+Audience: 
+
+- software engineers
+- information/communications technologists
+- academics
 
 Thesis: against purity; engage with complicated and uncomfortable questions
 
