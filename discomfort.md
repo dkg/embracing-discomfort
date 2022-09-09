@@ -10,6 +10,11 @@ Audience:
 
 Thesis: against purity; engage with complicated and uncomfortable questions
 
+Venue:
+
+- CACM?
+- Wired?
+- IETF Journal
 
 
 
